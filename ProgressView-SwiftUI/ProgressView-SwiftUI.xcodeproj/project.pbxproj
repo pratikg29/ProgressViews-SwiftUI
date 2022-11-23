@@ -11,6 +11,7 @@
 		3026AF44292E6B7D006C2EE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3026AF43292E6B7D006C2EE7 /* ContentView.swift */; };
 		3026AF46292E6B82006C2EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3026AF45292E6B82006C2EE7 /* Assets.xcassets */; };
 		3026AF49292E6B82006C2EE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3026AF48292E6B82006C2EE7 /* Preview Assets.xcassets */; };
+		3026AF50292E6BCA006C2EE7 /* ProgressViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3026AF4F292E6BCA006C2EE7 /* ProgressViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3026AF43292E6B7D006C2EE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3026AF45292E6B82006C2EE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3026AF48292E6B82006C2EE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3026AF4F292E6BCA006C2EE7 /* ProgressViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3026AF41292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift */,
 				3026AF43292E6B7D006C2EE7 /* ContentView.swift */,
+				3026AF4F292E6BCA006C2EE7 /* ProgressViews.swift */,
 				3026AF45292E6B82006C2EE7 /* Assets.xcassets */,
 				3026AF47292E6B82006C2EE7 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3026AF44292E6B7D006C2EE7 /* ContentView.swift in Sources */,
+				3026AF50292E6BCA006C2EE7 /* ProgressViews.swift in Sources */,
 				3026AF42292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
