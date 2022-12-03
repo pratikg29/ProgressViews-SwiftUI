@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30011BB3293B5A5C00E5B348 /* Nuemorphic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30011BB2293B5A5C00E5B348 /* Nuemorphic.swift */; };
+		30011BB5293B7AE800E5B348 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30011BB4293B7AE800E5B348 /* Extensions.swift */; };
 		3026AF42292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3026AF41292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift */; };
 		3026AF44292E6B7D006C2EE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3026AF43292E6B7D006C2EE7 /* ContentView.swift */; };
 		3026AF46292E6B82006C2EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3026AF45292E6B82006C2EE7 /* Assets.xcassets */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30011BB2293B5A5C00E5B348 /* Nuemorphic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nuemorphic.swift; sourceTree = "<group>"; };
+		30011BB4293B7AE800E5B348 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3026AF3E292E6B7D006C2EE7 /* ProgressView-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ProgressView-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3026AF41292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView_SwiftUIApp.swift; sourceTree = "<group>"; };
 		3026AF43292E6B7D006C2EE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,7 +59,9 @@
 			children = (
 				3026AF41292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift */,
 				3026AF43292E6B7D006C2EE7 /* ContentView.swift */,
+				30011BB2293B5A5C00E5B348 /* Nuemorphic.swift */,
 				3026AF4F292E6BCA006C2EE7 /* ProgressViews.swift */,
+				30011BB4293B7AE800E5B348 /* Extensions.swift */,
 				3026AF45292E6B82006C2EE7 /* Assets.xcassets */,
 				3026AF47292E6B82006C2EE7 /* Preview Content */,
 			);
@@ -140,7 +146,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30011BB5293B7AE800E5B348 /* Extensions.swift in Sources */,
 				3026AF44292E6B7D006C2EE7 /* ContentView.swift in Sources */,
+				30011BB3293B5A5C00E5B348 /* Nuemorphic.swift in Sources */,
 				3026AF50292E6BCA006C2EE7 /* ProgressViews.swift in Sources */,
 				3026AF42292E6B7D006C2EE7 /* ProgressView_SwiftUIApp.swift in Sources */,
 			);
