@@ -6,6 +6,8 @@ Support me:
 
 <a href="https://www.buymeacoffee.com/pratik28" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+https://www.paypal.com/paypalme/PratikGadhesariya
+
 ![Image 3](https://user-images.githubusercontent.com/35287467/205444364-657e77e7-adeb-449f-9383-3fef6d41976a.png)
 
 
